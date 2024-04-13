@@ -1,4 +1,4 @@
-# Underwriting Decision System 
+# Underwriting Decision System  
 
 ## Overview
 
