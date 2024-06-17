@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository serves a systematic approach to making underwriting decisions for lending based on data-driven insights.
+This repository serves a systematic approach to making underwriting decisions for lending based on data-driven insights. 
 
 ## Table of Contents
 
