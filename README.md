@@ -1,10 +1,8 @@
-# Underwriting Decision System  
-
-
+# Underwriting Decision System
 
 ## Overview
 
-This repository serves a systematic approach to making underwriting decisions for lending based on data-driven insights. 
+This repository serves a systematic approach to making underwriting decisions for lending based on data-driven insights. It leverages quantitative analysis, risk management, and the application of machine learning techniques.
 
 ## Table of Contents
 
