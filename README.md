@@ -33,10 +33,6 @@ A risk model to score each user's lending risk. The methodology and code can be 
 
 Reports highlighting key findings, patterns, and recommendations. These can be found in the `reporting/` folder.
 
-## Policy Drafting
-
-Based on the insights and risk determination, we've drafted a set of hypothetical underwriting policies to guide lending decisions. Refer to [policies/draft_policies.md](policies/draft_policies.md).
-
 ## Additional Data Sources
 
 Discussion on potential external data sources to enhance the underwriting decision process is integrated into the project overview.
