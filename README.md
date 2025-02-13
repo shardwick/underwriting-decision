@@ -10,7 +10,6 @@ This repository serves a systematic approach to making underwriting decisions fo
 - [Data Collection & Analysis](#data-collection--analysis)
 - [Risk Determination](#risk-determination)
 - [Reporting](#reporting)
-- [Policy Drafting](#policy-drafting)
 - [Additional Data Sources](#additional-data-sources)
 - [Product Recommendations](#product-recommendations)
 - [SQL Demonstrations](#sql-demonstrations)
